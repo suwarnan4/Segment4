@@ -1,0 +1,10 @@
+c:\users\annu\documents\visual studio 2013\Projects\Segment4\Segment4\bin\Debug\Segment4.exe.config
+c:\users\annu\documents\visual studio 2013\Projects\Segment4\Segment4\bin\Debug\Segment4.exe
+c:\users\annu\documents\visual studio 2013\Projects\Segment4\Segment4\bin\Debug\Segment4.pdb
+c:\users\annu\documents\visual studio 2013\Projects\Segment4\Segment4\bin\Debug\Segment4.xml
+c:\users\annu\documents\visual studio 2013\Projects\Segment4\Segment4\obj\Debug\Segment4.MyForm.resources
+c:\users\annu\documents\visual studio 2013\Projects\Segment4\Segment4\obj\Debug\Segment4.Resources.resources
+c:\users\annu\documents\visual studio 2013\Projects\Segment4\Segment4\obj\Debug\Segment4.vbproj.GenerateResource.Cache
+c:\users\annu\documents\visual studio 2013\Projects\Segment4\Segment4\obj\Debug\Segment4.exe
+c:\users\annu\documents\visual studio 2013\Projects\Segment4\Segment4\obj\Debug\Segment4.xml
+c:\users\annu\documents\visual studio 2013\Projects\Segment4\Segment4\obj\Debug\Segment4.pdb
